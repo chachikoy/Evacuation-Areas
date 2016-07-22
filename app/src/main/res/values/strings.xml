@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleAgainForMaps</string>
+    <string name="title_activity_maps">Current Location</string>
+
+</resources>
